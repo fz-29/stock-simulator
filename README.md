@@ -32,6 +32,13 @@ Request on WhatsApp group for editing access
 
 
 ### Running the project
+---
+FOR LOCALHOST RUN
+
+- ensure correct static resource path
+- perform collectstatic on new path
+- ensure debug = True
+---
 1. Preferrably clone this project in a virual environment.
 2. Activate the virual environment.
 3. Install all required modules from requirements.txt
